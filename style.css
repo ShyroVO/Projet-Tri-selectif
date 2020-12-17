@@ -26,7 +26,17 @@ h1{
 
 /* Container */
 #container {
+    padding: 5rem;
     height: 45rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#container div {
+    height: 50%;
+    width: 20%;
+    border: solid #106900 1px;
 }
 
 /* Footer: */
