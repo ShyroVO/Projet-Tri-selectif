@@ -26,8 +26,8 @@ h1{
 
 /* Container */
 #container {
-    padding: 5rem;
-    height: 45rem;
+    padding: 2rem;
+    height: 20rem;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
